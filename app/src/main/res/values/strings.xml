@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WA Saver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_result_found">NO result found</string>
+    <string name="wa_save">WA Save</string>
+    <string name="wa_videos">WA Videos</string>
+</resources>
